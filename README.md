@@ -29,7 +29,7 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
 
 - 🌱 I’m currently learning TypeScript.
 
-- 📫 How to reach me: [@lauragift_](yixsi3103@gmail.com_)
+- 📫 How to reach me: [@yixsi3103_](yixsi3103@gmail.com_)
 
 - ⚡ Likes: I love music, so I like singing and playing instruments.
 
