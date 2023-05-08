@@ -29,7 +29,7 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
 
 - 🌱 I’m currently learning TypeScript.
 
-- 📫 How to reach me: [@yixsi3103_](yixsi3103@gmail.com_)
+- 📫 How to reach me: yixsi3103@gmail.com
 
 - ⚡ Likes: I love music, so I like singing and playing instruments.
 
@@ -51,18 +51,18 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauragift21&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yixsi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yixsi&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Yixsi"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Yixsi"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yixsi&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
@@ -70,7 +70,7 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yixsi&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- THE END -->
