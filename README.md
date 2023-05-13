@@ -40,7 +40,7 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/yisney-soto/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/yisney-soto/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp; alt="LinkedIn Badge"></a> 
    </p>
 
  <!-- Conecct section: END -->
