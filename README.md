@@ -59,12 +59,6 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Yixsi&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Yixsi"><img alt="Gift Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yixsi&custom_title=Yixsi%20Contributions%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
 
