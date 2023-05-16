@@ -16,7 +16,7 @@
 ---
 ✨ I'm a FullStack Web Developer, passionate about making the web useful and easy to manage for everyone. 
 
-i have the ability to understand client's ideas, problems and requirements to trace a strategic and detail focused soution route.
+I have the ability to understand client's ideas, problems and requirements to trace a strategic and detail focused soution route.
 
 I love sharing my ideas with my work team, recieving feedback about my code and learning through code challenges or projects.
 
@@ -27,7 +27,7 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
 
 - 🔭 I’m currently working with: JavaScript, ReactJS, Redux, CSS, SQL, Node, Sequelize, Express.
 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning NextJS.
 
 - 📫 How to reach me: yixsi3103@gmail.com
 
