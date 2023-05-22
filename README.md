@@ -25,9 +25,9 @@ I love sharing my ideas with my work team, recieving feedback about my code and 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
    
 
-- 🔭 I’m currently working with: JavaScript, ReactJS, Redux, CSS, SQL, Node, Sequelize, Express.
+- 🔭 I’m currently working with: JavaScript, ReactJS, Redux, CSS, SQL, Node, Sequelize, Express, MongoDB.
 
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning NextJS and TypeScript.
 
 - 📫 How to reach me: yixsi3103@gmail.com
 
